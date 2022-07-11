@@ -2,6 +2,7 @@ const menu = document.querySelector('.menu')
 const menuToggle = document.querySelector('.menu-toggle')
 const body = document.querySelector('body')
 let show = true
+const zIndex = 20
 
 
 menuToggle.addEventListener('click', () => {
@@ -9,7 +10,7 @@ menuToggle.addEventListener('click', () => {
     menu.classList.toggle('full-screen', show)
     menu.style.visibility = 'visible'
     
-    menuToggle.style.zIndex = '20'
+    menuToggle.style.zIndex = zIndex
 
     body.style.overflow = show ? 'hidden' : 'initial'
 
