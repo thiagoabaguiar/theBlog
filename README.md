@@ -39,4 +39,4 @@
 <h3>Responsividade (Media Queries):</h3>
 <img src="https://github.com/thiagoabaguiar/theblog/blob/main/images/theblog-responsividade.gif">
 <hr>
-<p align="center"><img src="https://img.shields.io/badge/license-MIT-blue"/><span>&nbsp&nbsp</span><img src="https://img.shields.io/badge/npm--version-8.1.0-brightgreen"/><span>&nbsp&nbsp</span><img src="https://img.shields.io/badge/sass--version-1.53.0-CC6699"/><span></p>
+<p align="center"><img src="https://img.shields.io/badge/license-MIT-blue"/><span>&nbsp&nbsp</span><img src="https://img.shields.io/badge/npm--version-8.1.0-brightgreen"/><span>&nbsp&nbsp</span><img src="https://img.shields.io/badge/sass--version-1.53.0-CC6699"/></p>
