@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/thiagoabaguiar/theblog/main/images/logo.png?token=GHSAT0AAAAAABWPZMYC3VH4QHPLRJWH5J7EYWMHIAA" height="90px"></div>
+<div align="center"><img src="https://github.com/thiagoabaguiar/theblog/blob/main/images/logo.png?raw=true" height="90px"></div>
 <h1 align="center">"O Blog dos DEVs"</h1>
 <h3>Descrição: </h3>
 <p>Blog criado como desafio do curso Discover da <a href="https://www.rocketseat.com.br/">Rocketseat</a></p>
