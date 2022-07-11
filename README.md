@@ -10,14 +10,13 @@
 <img src="https://img.shields.io/static/v1?label=style&message=CSS&color=1572B6&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?label=markup&message=HTML&color=E34F26&style=for-the-badge"/>
 <img src="https://img.shields.io/static/v1?label=pre-css&message=SASS&color=CC6699&style=for-the-badge"/>
-
 </p>
 
 <h3>Features:</h3>
 
 - [x] Layout
 - [x] Estilização
-- [x] Responvidade
+- [x] Responsividade
 - [ ] Mecanismo de Busca
 - [ ] Tela Inclusão de Posts
 
